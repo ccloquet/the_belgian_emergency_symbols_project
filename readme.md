@@ -8,9 +8,9 @@ b) voir si des rapprochements sont possibles et ont du sens en vue d'une plus gr
 
 **libertés** : 
 
-a) vous pouvez ajouter vos propres icônes via un pull request ;
+a) vous pouvez ajouter vos propres icônes via un _pull request_ ;
 
-b) vous pouvez créer votre propre repository en forkant celui-ci ;
+b) vous pouvez créer votre propre dépôt en _forkant_ celui-ci ;
 
 c) vous pouvez reprendre le projet à votre propre compte afin que la gestion soit assurée par un service public. Pour assurer la pérennité du projet, le nom de domaine peut vous être transféré.
 
