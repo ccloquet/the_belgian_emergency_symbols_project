@@ -1,4 +1,4 @@
-The Belgian Emergency Icons Repository
+The Belgian Emergency Symbols Project
 
 **objectif**: rassembler en un même endroit les symboles utilisés en Belgique pour la cartographie de la planification d'urgence et de la gestion de crise, afin de 
 
