@@ -15,3 +15,7 @@
   c) vous pouvez reprendre le projet à votre propre compte afin que la gestion soit assurée par un service public. Pour assurer la pérennité du projet, le nom de domaine peut vous être transféré.
 
 Note : ces icônes peuvent être sujettes à copyright. Elles peuvent uniquement être utilisées si vous disposez des licences adéquates.
+
+
+Other icons repositories : 
+  https://spatialillusions.com/unitgenerator/ military APP6 D symbols generator
