@@ -22,3 +22,4 @@ Note : ces icônes peuvent être sujettes à copyright. Elles peuvent uniquement
 Other icons repositories : 
   - https://spatialillusions.com/unitgenerator/ military APP6 D symbols generator
   - https://commons.wikimedia.org/wiki/NATO_Military_Map_Symbols
+  - https://www.linkedin.com/posts/philippe-meresse-56569121_goc-cop-sitac-activity-6883783935868973056-Orqw
